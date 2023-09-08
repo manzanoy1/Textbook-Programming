@@ -1,5 +1,4 @@
 #Yanira Manzano
-#TP assignment
 #22/11/2019
 
 from textbooks import Textbooks
