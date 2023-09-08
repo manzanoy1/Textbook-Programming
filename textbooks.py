@@ -1,5 +1,4 @@
 #Yanira Manzano
-#TP Assignment
 #22/11/2019
 
 from Person import Person
